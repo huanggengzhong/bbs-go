@@ -23,7 +23,7 @@ build/*
 cscope.files
 tags
 
-logs/*.log
+# logs/*.log
 web/*
 
 generator/*

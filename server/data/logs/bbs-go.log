@@ -1,0 +1,4 @@
+time="2023-09-13T15:14:23+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: no such file or directory\n"
+time="2023-09-13T15:41:38+08:00" level=info msg="上传文件：WechatIMG321.jpeg size:91291"
+time="2023-09-13T15:41:38+08:00" level=error msg="bucket name 请配置成你自己的 can only include lowercase letters, numbers, and -"
+time="2023-09-13T15:42:20+08:00" level=info msg="上传文件：WechatIMG321.jpeg size:91291"

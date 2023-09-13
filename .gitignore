@@ -1,6 +1,6 @@
 .idea
 dist
-*.log
+# *.log
 .DS_Store
 node_modules
 .nuxt
