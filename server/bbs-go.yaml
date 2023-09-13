@@ -1,6 +1,6 @@
 Env: prod # 环境，线上环境：prod、测试环境：dev
 BaseUrl: http://110.41.7.44:3000 # 网站域名
-Port: 8000 # 端口
+Port: 80 # 端口
 LogFile: /root/mydata/bbs-go/server/data/logs/bbs-go.log # 日志文件
 StaticPath: /root/mydata/bbs-go/server/data/www  # 根路径下的静态文件目录，可配置绝对路径
 # 本地地址222
