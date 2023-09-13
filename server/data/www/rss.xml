@@ -4,7 +4,7 @@
     <link>http://localhost:3000</link>
     <description>bbs-go，基于Go语言的开源社区系统</description>
     <managingEditor> (bbs-go演示站)</managingEditor>
-    <pubDate>Wed, 13 Sep 2023 16:10:12 +0800</pubDate>
+    <pubDate>Wed, 13 Sep 2023 16:40:12 +0800</pubDate>
     <item>
       <title>测试文章</title>
       <link>http://localhost:3000/article/2</link>
