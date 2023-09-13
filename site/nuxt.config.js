@@ -1,4 +1,8 @@
 export default {
+  server: {
+    port: 8080, // 将默认端口从 3000 修改为 8080，你可以根据需要选择其他端口
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
