@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>bbs-go演示站</title>
   <id>http://localhost:3000</id>
-  <updated>2023-09-13T16:40:12+08:00</updated>
+  <updated>2023-09-13T17:10:12+08:00</updated>
   <subtitle>bbs-go，基于Go语言的开源社区系统</subtitle>
   <link href="http://localhost:3000"></link>
   <author>
