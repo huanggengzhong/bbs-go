@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bbs-go演示站</title>
+    <link>http://localhost:3000</link>
+    <description>bbs-go，基于Go语言的开源社区系统</description>
+    <managingEditor> (bbs-go演示站)</managingEditor>
+    <pubDate>Wed, 13 Sep 2023 16:10:12 +0800</pubDate>
+    <item>
+      <title>测试文章</title>
+      <link>http://localhost:3000/article/2</link>
+      <description>你好呀</description>
+      <pubDate>Wed, 13 Sep 2023 15:48:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>测试标题</title>
+      <link>http://localhost:3000/article/1</link>
+      <description>好好好</description>
+      <pubDate>Wed, 13 Sep 2023 15:47:53 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
