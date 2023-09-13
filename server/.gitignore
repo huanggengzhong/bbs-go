@@ -14,8 +14,8 @@
 
 bbs-go
 
-bbs-go.yaml
-bbs-go.prod.yaml
+# bbs-go.yaml
+# bbs-go.prod.yaml
 
 .idea/*
 build/*
@@ -30,4 +30,4 @@ generator/*
 go.work
 go.work.sum
 
-ip2region.xdb
+# ip2region.xdb
